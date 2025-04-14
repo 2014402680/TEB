@@ -22,13 +22,13 @@ The project's folder structure is as follows:
    Start by creating a Conda environment with Python 3.11. If you haven't already installed Conda, you can get it from [Anaconda](https://www.anaconda.com/products/individual).
 
    ```shell
-   conda create -n GTE python=3.11
+   conda create -n TEB python=3.11
    ```
 
    Activate the environment:
 
    ```shell
-   conda activate GTE
+   conda activate TEB
    ```
 
 2. **Install Dependencies**:
@@ -44,7 +44,7 @@ The project's folder structure is as follows:
  **Additional Information**:
 
    For more details and customization options, please refer to ours paper.
-Have fun exploring the GTE framework!
+Have fun exploring the TEB framework!
 
 
 
